@@ -1,7 +1,6 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Library LVVersion="22308000">
 	<Property Name="NI.Lib.Icon" Type="Bin">)D#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)X!!!*Q(C=\&gt;7R=&gt;N!%)8B:Y]$J_T!QR:?#WC",;Q3+6$%V#&amp;&lt;W",%'9],9/ZI/^$!\I!N5$^/3YK"-HFMDU=!$S1?\P9_!C!ID?7T^%GH.S_DB$1W9G^MFXXJ=HT:[Y\HV`HN_PA9@_KBOKJ`(K`8RF`GUN8YF`H@_/X?F`@F`V[_`PX@Q1@V,\JI31O;HX`$26\E26\E26\E3:\E3:\E3:\E12\E12\E12\E*D?ZS5VO=D]`M5YC&amp;\H)Z@(]+C9P*CK+&amp;A7+TF"5&lt;!J0Y3E]B9&gt;&gt;&amp;:\#5XA+4_'BCQJ0Y3E]B;@Q-%S&amp;J`!5HM*4?#AV*$67=DS&amp;B`*+0)EH]33?R-/53DQ*)*EM+:Q5A;(E90)B]33?R-.(*:\%EXA34_,BM"*0YEE]C3@R-'3=F2S;:38(1RE&amp;HM!4?!*0Y+'U!E`A#4S"*`!QH1*0Y!E1Q92"=1A+"A5&gt;AJX!%XBY5_!*0)%H]!1?$IUL&amp;/0-,*JF*=&gt;D0-:D0-:D0*31]2C0]2C0]6"7RG-]RG-]RM.5-B\D-2Y$-:-SP5QR-^"U-I(R]"JXC]&gt;6SC(R7.6`1/.'6&gt;_![BN,@=/I&lt;Q4V"6:@/05&amp;5:^I^1F5HRDV&amp;V:`%4610&lt;'[I,KDDGRHWI'WJ_VI7^K'.N(7N.5S^$&gt;X0"[0GO&gt;:B]."_`V?O^V/W_V7G]V'UT2JP6ZLN6J&gt;(A.@7#]0B*@HUM`\[7&lt;_@P=Y0^T_GL`&gt;0@[YP\XZ1``0`]#T52^V01@H[!H_N[U*!!!!!!</Property>
-	<Property Name="NI.Lib.SourceVersion" Type="Int">573603840</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
@@ -24,9 +23,10 @@
 			<Item Name="Set Mouse Lighting.vi" Type="VI" URL="../Public/Devices/Set Mouse Lighting.vi"/>
 			<Item Name="Set Keyboard Lighting.vi" Type="VI" URL="../Public/Devices/Set Keyboard Lighting.vi"/>
 		</Item>
-		<Item Name="Utilities" Type="Folder"/>
-		<Item Name="Save Current Lighting.vi" Type="VI" URL="../Public/Save Current Lighting.vi"/>
-		<Item Name="Restore Lighting.vi" Type="VI" URL="../Public/Restore Lighting.vi"/>
+		<Item Name="Utilities" Type="Folder">
+			<Item Name="Save Current Lighting.vi" Type="VI" URL="../Public/Save Current Lighting.vi"/>
+			<Item Name="Restore Lighting.vi" Type="VI" URL="../Public/Restore Lighting.vi"/>
+		</Item>
 		<Item Name="Set Lighting all Devices.vi" Type="VI" URL="../Public/Set Lighting all Devices.vi"/>
 	</Item>
 	<Item Name="Private" Type="Folder">

@@ -1,5 +1,5 @@
 # LabVIEW-Logitech
-A wrapper for the Logtiech SDK in LabVIEW
+A wrapper for the Logitech Illumination SDK in LabVIEW
 
 Supports 32-bit version of LabVIEW only, currently
 
